@@ -43,6 +43,7 @@ The primary purpose of this project is to predict the final grade (G3) of studen
 
 To make predictions using the trained model, you can load the model from the pickle file and use it to predict the final grade (G3) for a given second-semester grade (G2).
 
-## License
+## Dataset Citation
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Markelle Kelly, Rachel Longjohn, Kolby Nottingham,
+The UCI Machine Learning Repository, https://archive.ics.uci.edu
